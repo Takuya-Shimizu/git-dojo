@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1
 1
 1 今日はgit道場に参加してる  hoge
@@ -31,3 +32,5 @@
 18 fuga
 18 fuga
 
+=======
+>>>>>>> ca9fc51 (add shimiken)
