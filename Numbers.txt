@@ -1,3 +1,5 @@
+1
+1
 1 今日はgit道場に参加してる  hoge
 2 どんな編集をしたらいいかわからないが hoge
 4 hoge
@@ -13,3 +15,12 @@
 13 4
 14 5
 15 hoge
+10 hoge
+11 hoge
+12 hoge
+13 hoge
+14 hoge
+15 hoge
+16 fuga
+17 fuga
+18 fuga
