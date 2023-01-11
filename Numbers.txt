@@ -15,6 +15,3 @@
 13 hoge
 14 hoge
 15 hoge
-16 fuga
-17 fuga
-18 fuga
