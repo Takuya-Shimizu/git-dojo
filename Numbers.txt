@@ -1,3 +1,5 @@
+1
+1
 1 今日はgit道場に参加してる  hoge
 2 どんな編集をしたらいいかわからないが hoge
 4 hoge
@@ -13,8 +15,3 @@
 13 hoge
 14 hoge
 15 hoge
-16 tsuruken
-17 shimikenn
-18 katou
-19 chokobo-ru
-20 moribayashi
