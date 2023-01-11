@@ -25,9 +25,8 @@
 17 fuga
 18 fuga
 15 hoge
-18 fuga
-18 fuga
-18 fuga
-18 fuga
-18 fuga
-
+10 1
+11 2
+12 3
+13 4
+14 5
