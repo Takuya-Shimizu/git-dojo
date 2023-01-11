@@ -15,9 +15,9 @@
 12 3
 13 4
 14 5
-15 hoge
-10 hoge
-11 hoge
+15 hogefuga
+10 hogefuga
+11 hogefuga
 12 hoge
 13 hoge
 14 hoge
@@ -26,6 +26,7 @@
 17 fuga
 18 fuga
 15 hoge
+<<<<<<< HEAD
 18 fuga
 18 fuga
 18 fuga
@@ -34,3 +35,10 @@
 
 =======
 >>>>>>> ca9fc51 (add shimiken)
+=======
+10 1
+11 2
+12 3
+13 4
+14 5
+>>>>>>> master
